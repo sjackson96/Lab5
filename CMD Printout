@@ -1,0 +1,36 @@
+CMD Printout:
+Microsoft Windows [Version 10.0.18363.1440]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\Brina>cd Desktop
+
+C:\Users\Brina\Desktop>cd Coding_Lab5
+
+C:\Users\Brina\Desktop\Coding_Lab5>javac Lab5.java
+
+C:\Users\Brina\Desktop\Coding_Lab5>java Lab5
+Tanemon
+Yokomon
+Tentomon
+Palmon
+Lalamon
+Renamon
+Wormmon
+Woodmon
+Kabuterimon
+Kuwagamon
+Sunflowmon
+Stingmon
+Togemon
+Vegiemon
+MegaKabuterimon
+Okuwamon
+Cherrymon
+Lilamon
+Lillymon
+GranKuwagamon
+Puppetmon
+HerculesKabuterimon
+Rosemon
+Lotosmon
+Rosemon BM
